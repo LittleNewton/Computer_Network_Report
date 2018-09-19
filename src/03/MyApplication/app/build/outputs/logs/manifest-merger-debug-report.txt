@@ -1,0 +1,158 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/newton/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/newton/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/newton/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/newton/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:2:1-23:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/newton/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/2ba3f2fd7ebcdca272b1ab4af3652458/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/newton/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/7468f9c56d9b95bef2f38ec7d2e6cb17/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/newton/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/08134f1b02d7f438a8a37168730bd1d5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/newton/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/0fa8a7a6b969f89afd4e8062d2284334/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/newton/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/357eea6cee533f587c356ed93d897e0a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/newton/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/b51c0e28b43a207bd392abd97cb473ed/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/newton/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/72788ec6119499a1f716c89c9de08f79/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/newton/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/e037a4c80c2d96ad1a624cda9e89d147/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/newton/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/497a74dd73f021bcd4769844227ce5fd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/newton/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/716dfa7ed92a6d15bc099c99e2f9a5e0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/newton/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/6ac381257e5db46cba06d8600327c63e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/newton/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/7805dc2c1714fcc4209ba49fa33b2999/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/newton/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/6cbb496d5ecc9e07beaa244cb7189bc0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/newton/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/71e8983377f72474b32c881c3393b4fd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/newton/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/fd3d4a45e9e4d986048433071de5b657/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/newton/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3a0f8373b4f1e06136ea1216b84a5843/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/newton/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/2ee2f34a875cd664763893eba150db88/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/newton/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/5eda95599ee65973047c39e46abde004/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/newton/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/5f42a855f41ed51f7dcb12cbef3e518b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/newton/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/551025994dafcbb0e96da7836f33d936/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/newton/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/1dde3e1cb9b74028ca114e6ce591f279/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/newton/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/a33aa4ff887e48dc3662dc00ddcbeed0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/newton/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/d2b89f5e5e4676b2dbf8462f90396f41/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/newton/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/c39600061a1178a808c9756258ab4ba3/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/newton/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/1f5b43166aa54fddf19c71d864adf6e5/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/newton/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/5ebf8a080e266d6f08d3e94a54b7a06b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/newton/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/8bedccfa378f866acc883e6d2a4bac6f/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/newton/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/newton/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/newton/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from /Users/newton/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:3:5-47
+		INJECTED from /Users/newton/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/newton/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/newton/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml
+		ADDED from /Users/newton/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:2:1-23:12
+		INJECTED from /Users/newton/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/newton/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml
+		ADDED from /Users/newton/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:2:1-23:12
+		INJECTED from /Users/newton/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/newton/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/newton/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/newton/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/7468f9c56d9b95bef2f38ec7d2e6cb17/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/newton/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/7468f9c56d9b95bef2f38ec7d2e6cb17/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/newton/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3a0f8373b4f1e06136ea1216b84a5843/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/newton/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3a0f8373b4f1e06136ea1216b84a5843/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/newton/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/2ee2f34a875cd664763893eba150db88/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/newton/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/2ee2f34a875cd664763893eba150db88/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/newton/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3a0f8373b4f1e06136ea1216b84a5843/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/newton/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/newton/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /Users/newton/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /Users/newton/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/newton/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/newton/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.newton.myapplication.MainActivity
+ADDED from /Users/newton/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /Users/newton/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/newton/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/newton/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /Users/newton/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/newton/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /Users/newton/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:16:27-74
+uses-permission#android.permission.INTERNET
+ADDED from /Users/newton/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:21:5-66
+	android:name
+		ADDED from /Users/newton/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:21:22-64
+uses-sdk
+INJECTED from /Users/newton/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/newton/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml
+INJECTED from /Users/newton/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/newton/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/2ba3f2fd7ebcdca272b1ab4af3652458/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/newton/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/2ba3f2fd7ebcdca272b1ab4af3652458/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/newton/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/7468f9c56d9b95bef2f38ec7d2e6cb17/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/newton/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/7468f9c56d9b95bef2f38ec7d2e6cb17/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/newton/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/08134f1b02d7f438a8a37168730bd1d5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/newton/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/08134f1b02d7f438a8a37168730bd1d5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/newton/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/0fa8a7a6b969f89afd4e8062d2284334/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/newton/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/0fa8a7a6b969f89afd4e8062d2284334/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/newton/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/357eea6cee533f587c356ed93d897e0a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/newton/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/357eea6cee533f587c356ed93d897e0a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/newton/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/b51c0e28b43a207bd392abd97cb473ed/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/newton/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/b51c0e28b43a207bd392abd97cb473ed/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/newton/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/72788ec6119499a1f716c89c9de08f79/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/newton/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/72788ec6119499a1f716c89c9de08f79/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/newton/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/e037a4c80c2d96ad1a624cda9e89d147/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/newton/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/e037a4c80c2d96ad1a624cda9e89d147/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/newton/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/497a74dd73f021bcd4769844227ce5fd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/newton/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/497a74dd73f021bcd4769844227ce5fd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/newton/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/716dfa7ed92a6d15bc099c99e2f9a5e0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/newton/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/716dfa7ed92a6d15bc099c99e2f9a5e0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/newton/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/6ac381257e5db46cba06d8600327c63e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/newton/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/6ac381257e5db46cba06d8600327c63e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/newton/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/7805dc2c1714fcc4209ba49fa33b2999/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/newton/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/7805dc2c1714fcc4209ba49fa33b2999/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/newton/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/6cbb496d5ecc9e07beaa244cb7189bc0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/newton/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/6cbb496d5ecc9e07beaa244cb7189bc0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/newton/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/71e8983377f72474b32c881c3393b4fd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/newton/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/71e8983377f72474b32c881c3393b4fd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/newton/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/fd3d4a45e9e4d986048433071de5b657/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/newton/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/fd3d4a45e9e4d986048433071de5b657/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/newton/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3a0f8373b4f1e06136ea1216b84a5843/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/newton/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3a0f8373b4f1e06136ea1216b84a5843/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/newton/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/2ee2f34a875cd664763893eba150db88/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/newton/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/2ee2f34a875cd664763893eba150db88/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/newton/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/5eda95599ee65973047c39e46abde004/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/newton/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/5eda95599ee65973047c39e46abde004/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/newton/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/5f42a855f41ed51f7dcb12cbef3e518b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/newton/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/5f42a855f41ed51f7dcb12cbef3e518b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/newton/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/551025994dafcbb0e96da7836f33d936/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/newton/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/551025994dafcbb0e96da7836f33d936/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/newton/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/1dde3e1cb9b74028ca114e6ce591f279/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/newton/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/1dde3e1cb9b74028ca114e6ce591f279/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/newton/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/a33aa4ff887e48dc3662dc00ddcbeed0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/newton/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/a33aa4ff887e48dc3662dc00ddcbeed0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/newton/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/d2b89f5e5e4676b2dbf8462f90396f41/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/newton/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/d2b89f5e5e4676b2dbf8462f90396f41/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/newton/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/c39600061a1178a808c9756258ab4ba3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/newton/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/c39600061a1178a808c9756258ab4ba3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/newton/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/1f5b43166aa54fddf19c71d864adf6e5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/newton/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/1f5b43166aa54fddf19c71d864adf6e5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/newton/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/5ebf8a080e266d6f08d3e94a54b7a06b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/newton/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/5ebf8a080e266d6f08d3e94a54b7a06b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/newton/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/8bedccfa378f866acc883e6d2a4bac6f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/newton/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/8bedccfa378f866acc883e6d2a4bac6f/AndroidManifest.xml:20:5-44
+INJECTED from /Users/newton/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml
+INJECTED from /Users/newton/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/newton/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml
+		ADDED from /Users/newton/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/newton/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/newton/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml
+		ADDED from /Users/newton/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/newton/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml
