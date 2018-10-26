@@ -1,0 +1,47 @@
+陆老师，
+
+这是计算机网络实验报告1的第1版本。因为之前没有接触过Java，而且网络编程对于Windows不太友好，所以实验仅对一些概念性的问题做了描述，以及对部分java的net，nio，io包进行了简单的编程实验，主要参考了甲骨文公司的官方API，代码在Cygwin下调试通过。
+
+P.S. 实验报告一直是更新的，我用Git进行了版本控制，可以从GitHub上查看我的实验进度与commit频率，链接是：https://github.com/LittleNewton/Computer_Network_Report
+
+祝好，
+刘鹏
+2018-10-26
+
+-------
+
+陆老师，
+
+这是计算机网络实验报告2的第1版本。因为之前没有接触过Android开发，所以实验采用安卓SDK的意义还不是很了解，主要还是通过Wireshark软件查看网络packet的传输。
+
+P.S. 实验报告一直是更新的，我用Git进行了版本控制，可以从GitHub上查看我的实验进度与commit频率，链接是：https://github.com/LittleNewton/Computer_Network_Report
+
+祝好，
+刘鹏
+2018-10-26
+
+------
+
+陆老师，
+
+这是计算机网络实验报告3的第1版本。这次的实验报告历时近五周，主要因为我自2018-09-18~2019-09-30期间一直在京浙沪为研究生复试的事情奔波，又加上国庆节耽搁一周，最后加上中国开源年会占去了四天，所以拖延到了现在。
+
+Android Studio的使用与Java开发是我第一次接触，这次借鉴了部分开源代码，然后我自己设计了前端，虽然很简单，也没有涉及多线程的TCP编程，但是基本原理都照顾到了。
+
+P.S. 实验报告一直是更新的，我用Git进行了版本控制，可以从GitHub上查看我的实验进度与commit频率，链接是：https://github.com/LittleNewton/Computer_Network_Report
+
+祝好，
+刘鹏
+2018-10-26
+
+------
+
+陆老师，
+
+这是计算机网络实验报告4的第1版本。在实验3的基础上，实验4的框架性工作基本不存在难题。本次实验聚焦于UDP与TCP的区别，为传输层的学习做准备。
+
+P.S. 实验报告一直是更新的，我用Git进行了版本控制，可以从GitHub上查看我的实验进度与commit频率，链接是：https://github.com/LittleNewton/Computer_Network_Report
+
+祝好，
+刘鹏
+2018-10-26
